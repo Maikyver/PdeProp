@@ -1,0 +1,2 @@
+# PdeProp
+Trabajo - Paradigma Lógico
